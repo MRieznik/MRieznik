@@ -19,7 +19,7 @@ LinkedIn: https://www.linkedin.com/in/marcos-rieznik-774209232/
 
 # Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tunombredeusuario&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MRieznik&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
 
 
