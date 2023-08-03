@@ -1,17 +1,17 @@
 # ¡Hola, soy Marcos Rieznik! 👋
 
-## Acerca de mí:
+# Acerca de mí:
 
 Me gusta mucho todo lo relacionado con la Informatica y mas que nada el desarrollo como podemos crear las cosas de la nada.
 
-## Habilidades:
+# Habilidades:
 -Lenguajes de programación: JavaScript, Java
 
 -Tecnologías: React, Node.js, 
 
 -Bases de datos: MongoDB
 
-## Contacto:
+# Contacto:
 Puedes contactarme a través de:
 
 -Correo electrónico: m.rieznik17@gmail.com
@@ -24,6 +24,6 @@ Puedes contactarme a través de:
 
 
 
-#Agradecimientos
+# Agradecimientos
 
 ¡Gracias por visitar mi perfil de GitHub! ¡No dudes en revisarlo!
