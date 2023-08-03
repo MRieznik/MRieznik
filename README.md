@@ -2,7 +2,7 @@
 
 ## Acerca de mí:
 
-Me gusta mucho todo lo relacionado con la Informatica y mas que nada el desarrollo como podemos crear las cosas de la nada.
+Me gusta mucho todo lo relacionado con la Informatica y mas que nada el desarrollo como podemos crear cosas de la nada.
 
 ## Habilidades:
 
