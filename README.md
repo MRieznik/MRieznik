@@ -1,17 +1,23 @@
 # ¡Hola, soy Marcos Rieznik! 👋
 
-## Acerca de mí
+## Acerca de mí:
 
-Soy un apasionado desarrollador de software con experiencia en varios lenguajes de programación y tecnologías. Me encanta resolver problemas complejos y aprender nuevas habilidades tecnológicas.
+Me gusta mucho todo lo relacionado con la Informatica y mas que nada el desarrollo como podemos crear las cosas de la nada.
 
-## Proyectos destacados
+## Habilidades:
+Lenguajes de programación: JavaScript, Java
+Tecnologías: React, Node.js, 
+Bases de datos: MongoDB
 
-### Proyecto 1 - Nombre del Proyecto
+## Contacto:
+Puedes contactarme a través de:
 
-[Descripción breve del proyecto]
+Correo electrónico: m.rieznik17@gmail.com
+LinkedIn: https://www.linkedin.com/in/marcos-rieznik-774209232/
 
-```python
-# Ejemplo de código en Python
-def greet(name):
-    return f"¡Hola, {name}!"
+Estadísticas de GitHub
+Estadísticas de GitHub
 
+
+Agradecimientos
+¡Gracias por visitar mi perfil de GitHub! ¡Espero que encuentres algo interesante aquí!
