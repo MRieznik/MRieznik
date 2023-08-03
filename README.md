@@ -5,6 +5,7 @@
 Me gusta mucho todo lo relacionado con la Informatica y mas que nada el desarrollo como podemos crear las cosas de la nada.
 
 ## Habilidades:
+```markdown
 +Lenguajes de programación: JavaScript, Java, C++
 
 +Tecnologías: React, Node.js
