@@ -1,16 +1,17 @@
-### Hi there 👋
+# ¡Hola, soy Marcos Rieznik! 👋
 
-<!--
-**MRieznik/MRieznik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
 
-Here are some ideas to get you started:
+Soy un apasionado desarrollador de software con experiencia en varios lenguajes de programación y tecnologías. Me encanta resolver problemas complejos y aprender nuevas habilidades tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+
+### Proyecto 1 - Nombre del Proyecto
+
+[Descripción breve del proyecto]
+
+```python
+# Ejemplo de código en Python
+def greet(name):
+    return f"¡Hola, {name}!"
+
