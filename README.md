@@ -17,9 +17,11 @@ Correo electrónico: m.rieznik17@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/marcos-rieznik-774209232/
 
-Estadísticas de GitHub
-Estadísticas de GitHub
+# Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tunombredeusuario&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
 
-Agradecimientos
-¡Gracias por visitar mi perfil de GitHub! ¡Espero que encuentres algo interesante aquí!
+
+#Agradecimientos
+¡Gracias por visitar mi perfil de GitHub! ¡No dudes en revisarlo!
