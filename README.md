@@ -39,6 +39,8 @@ Puedes contactarme a través de:
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MRieznik&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRieznik&layout=compact&theme=vision-friendly-dark)](https://github.com/MRieznik/github-readme-stats)
+
 
 
 ## Agradecimientos
