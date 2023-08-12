@@ -1,6 +1,6 @@
 # ¡Hola, soy Marcos Rieznik! 👋
 
-<a href="https://www.linkedin.com/in/marcos-rieznik-774209232/"
+<a href="https://www.linkedin.com/in/marcos-rieznik-774209232/
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
   <a href="mailto:m.rieznik17@gmail.com">
