@@ -1,12 +1,5 @@
 # ¡Hola, soy Marcos Rieznik! 👋
 
-<a href="https://www.linkedin.com/in/marcos-rieznik-774209232/
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-  <a href="mailto:m.rieznik17@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
-  </a>
-
 ## Acerca de mí:
 
 Me gusta mucho todo lo relacionado con la Informatica y mas que nada el desarrollo como podemos crear cosas de la nada.
@@ -35,7 +28,7 @@ Me gusta mucho todo lo relacionado con la Informatica y mas que nada el desarrol
 ## Contacto:
 Puedes contactarme a través de:
 
-<a href="https://www.linkedin.com/in/marcos-rieznik-774209232/
+<a href="https://www.linkedin.com/in/marcos-rieznik-774209232/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
   <a href="mailto:m.rieznik17@gmail.com">
